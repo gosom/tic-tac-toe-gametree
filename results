@@ -1,26 +1,4 @@
-tic-tac-toe-gametree
-====================
 
-Computes the entire tictactoe game tree.
-Prints the number of nodes
-Prints the branching factor
-
-How to build
-============
-
-`g++ main.cpp -o compute-gametree`
-
-
-Tested with 
-g++ (GCC) 4.8.2 20131212 (Red Hat 4.8.2-7)
-
-File compute-gametree is a binary for linux 32bit.
-File results contains the output of the program
-
-Output
-=======
-
-```
 - initiating tree traversal...
 - tree traversal completed successfully...
 
@@ -42,8 +20,4 @@ Output
 - number of nodes at tree depth 9: 127872
 
 - average tree branching factor: 4.81307
-```
-
-
-
 
