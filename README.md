@@ -6,7 +6,7 @@ Prints the number of nodes
 Prints the branching factor
 
 How to build
-============
+===
 
 `g++ main.cpp -o compute-gametree`
 
@@ -18,7 +18,7 @@ File compute-gametree is a binary for linux 32bit.
 File results contains the output of the program
 
 Output
-=======
+===
 
 ```
 - initiating tree traversal...
@@ -43,6 +43,12 @@ Output
 
 - average tree branching factor: 4.81307
 ```
+
+
+Credits
+====
+
+Dimitris
 
 
 
